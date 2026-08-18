@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+artifacts/
+artifacts_failed_*/
+tests/fixtures/tiny.sqlite
+.pytest_cache/
+.env
+.model/
+.model/cache/
+.model-cache/artifacts_failed_20260818T094252/
