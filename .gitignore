@@ -9,3 +9,5 @@ tests/fixtures/tiny.sqlite
 .model/
 .model/cache/
 .model-cache/artifacts_failed_20260818T094252/
+.DS_Store
+**/.DS_Store
